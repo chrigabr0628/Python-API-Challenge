@@ -35,7 +35,7 @@ Open your python-api-challenge GitHub folder in VS Code.
 
 Open the .gitignore file and type the following code on the first line:
 
-# Adding config.py file.
+#Adding config.py file.
 api_keys.py
 
 In the command line, type git status and press Enter. The output should indicate that the .gitignore file has been modified and the api_keys.py file is untracked.
