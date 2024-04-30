@@ -20,11 +20,8 @@ Inside your local Git repository, create a directory for this assignment. Use a 
 
 Inside the folder you just created, add the files called api_keys.py, WeatherPy.ipynb, and VacationPy.ipynb that you will find in the starter code ZIP file provided. These will be the main scripts to run for each analysis.
 
+
 Before you push your changes to GitHub, add a .gitignore file.
-
-
-
-Add a .gitignore File
 
 For this assignment, you will need to add a .gitignore file to your repo. Doing so will prevent the api_keys.py file that contains your API key from being shared with the public. If you skip this step, anyone using GitHub could copy and use your API key, and you may incur charges as a result.
 
